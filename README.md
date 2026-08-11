@@ -8,10 +8,9 @@ Research and memos: **[colehpage.com](https://colehpage.com)**
 
 ## SIF Portfolio Dashboard
 
-A portfolio system I built for the UCLA Anderson Student Investment Fund:
-accounting off one transaction ledger, per-name research and notes, attribution
-and risk, and the weekly board report. Next.js 16, Postgres through Prisma,
-thirty-five tables, around a thousand unit tests.
+A portfolio system I built for the UCLA Anderson Student Investment Fund: accounting off one 
+transaction ledger, per-name research and notes, attribution and risk, and the weekly board report. 
+Next.js 16, React 19, TypeScript, Postgres through Prisma, Tailwind, deployed on Vercel.
 
 - Live demo, running on a synthetic book: [fund.colehpage.com](https://fund.colehpage.com)
 - What it does and why it exists:
