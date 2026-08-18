@@ -23,7 +23,7 @@ The repo is private. It holds the fund's real configuration and history.
 Founding senior engineer at HyperDX, an open-source observability platform
 acquired by ClickHouse. Equity and tax modeling at Compound Planning. Co-founder
 and CPO at Constellation Analytics, building pricing models for insurance
-underwriters. At Sigma360, co-inventor on two patents applying NLP to structure
+underwriters. At Sigma360, first engineer and senior manager of data & research as well as co-inventor on two patents applying NLP to structure
 filings into entity-level credit and counterparty risk models:
 [US20220147717A1](https://patents.google.com/patent/US20220147717A1),
 [US20190164015A1](https://patents.google.com/patent/US20190164015A1).
